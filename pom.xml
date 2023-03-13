@@ -92,7 +92,7 @@
 
 
 <profile>
-<id>regression</id>
+<id>jenkinsPrac</id>
 <build>
 <plugins>
   
